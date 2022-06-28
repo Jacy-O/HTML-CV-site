@@ -1,0 +1,36 @@
+/*****************TAGS SELECTORS******************/
+body{
+  background-color: #DAEAF1;
+}
+
+hr{
+  border-style: dotted;
+  border-width: 5px;
+  border-bottom-style: none;
+  border-color: #2C3639;
+  width: 10%;
+}
+
+h1, h3{
+  color: #810955;
+}
+
+img:hover{
+  background-color: black;
+}
+
+/******************CLASS SELECTORS******************/
+.work{
+  border-style: inset;
+}
+
+.size{
+  font-size: 20px;
+}
+
+/* IDS
+#lists{
+  text-align: center;
+}
+
+*/
